@@ -1,0 +1,11 @@
+.form__label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.form__btn {
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+}
